@@ -1,7 +1,7 @@
 # 👋🏻 Hey! I'm Hritik sharma
 
-I'm 19-year-old a passionate developer based in India. <br>
-I'm deeply enthusiastic about diving into and mastering complex new technologies.
+<li>I'm 19-year-old a passionate developer based in India. </li><br>
+<li>I'm deeply enthusiastic about diving into and mastering complex new technologies.</li>
 
 # :hammer_and_wrench: Languages and Tools :
 <div>
