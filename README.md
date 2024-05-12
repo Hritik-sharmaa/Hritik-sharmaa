@@ -15,9 +15,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+# ✨ Some Fun Facts :
+- ☕️ Coffee fuels my productivity, and I'm always on the hunt for the perfect cup.<br>
+- 🌸 I'm a huge anime fan and enjoy watching series like Naruto, OnePiece, and Tokyo Ghoul.
+- ✏️ In my spare time, I love to sketch and draw, exploring my creativity through various art forms.
 
-## Get in Touch
-- 📫 You can reach out to me on [Your Preferred Social Media Platform].
-- 🔗 Check out my [Website/Blog] for more about my work.
+# Get in Touch
+- 📫 You can reach out to me on <a href='https://www.linkedin.com/in/hritik-sharma-b9979021b/'>LinkedIn</a>
 
 Let's connect and build something awesome together! 🌟
