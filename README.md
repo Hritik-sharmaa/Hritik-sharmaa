@@ -1,6 +1,6 @@
 # 👋🏻 Hey! I'm Hritik sharma
 
-<li>I'm 20-year-old a passionate developer based in India. </li><br>
+<li>I'm 21-year-old a passionate developer based in India. </li><br>
 <li>I'm deeply enthusiastic about diving into and mastering complex new technologies.</li>
 
 <br><br>
