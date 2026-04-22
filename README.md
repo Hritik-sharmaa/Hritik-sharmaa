@@ -9,7 +9,7 @@ I love diving deep into complex technologies and building things that matter. Al
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hritik-sharma-b9979021b/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hritiksharma2004)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hritiksharma2004@gmail.com)
-[![Profile Views](https://visitcount.itsvg.in/api?id=Hritik-sharmaa&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Hritik-sharmaa&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
@@ -77,7 +77,7 @@ I love diving deep into complex technologies and building things that matter. Al
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Hritik-sharmaa&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Hritik-sharmaa&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
