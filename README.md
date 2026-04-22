@@ -65,7 +65,7 @@ I love diving deep into complex technologies and building things that matter. Al
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hritik-sharmaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Hritik-sharmaa&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Hritik-sharmaa&theme=dark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hritik-sharmaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -77,7 +77,7 @@ I love diving deep into complex technologies and building things that matter. Al
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Hritik-sharmaa&theme=dark&no-frame=false&no-bg=false&margin-w=4&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Hritik-sharmaa&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
 
@@ -93,15 +93,6 @@ I love diving deep into complex technologies and building things that matter. Al
 
 ---
 
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Hritik-sharmaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-
----
 
 ## ✨ Fun Facts
 
