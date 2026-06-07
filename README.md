@@ -2,7 +2,7 @@
 
 # 👋🏻 Hey, I'm Hritik Sharma!
 
-**Passionate Developer · 21 · India**
+**Passionate Developer · 22 · India**
 
 I love diving deep into complex technologies and building things that matter. Always learning, always shipping.
 
