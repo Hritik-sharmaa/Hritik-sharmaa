@@ -4,7 +4,9 @@
 
 <br />
 
+<a href="https://hritik.space"><img src="assets/link-website.svg" alt="Website" height="48" /></a>
 <a href="https://www.linkedin.com/in/hritik-sharma-b9979021b/"><img src="assets/link-linkedin.svg" alt="LinkedIn" height="48" /></a>
+<a href="https://x.com/hritik4dev"><img src="assets/link-x.svg" alt="X (@hritik4dev)" height="48" /></a>
 <a href="https://medium.com/@hritiksharma2004"><img src="assets/link-medium.svg" alt="Medium" height="48" /></a>
 <a href="mailto:hritiksharma2004@gmail.com"><img src="assets/link-email.svg" alt="Email" height="48" /></a>
 
