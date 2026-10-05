@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="150" viewBox="0 0 860 150" role="img" aria-label="Let's build something awesome together">
+<title>Let's build something awesome together</title>
+<defs><clipPath id="cc"><rect x="4" y="4" width="846" height="136" rx="30"/></clipPath></defs>
+<rect x="12" y="12" width="846" height="136" rx="30" fill="#14121F"/>
+<rect x="4" y="4" width="846" height="136" rx="30" fill="#E4D9FF" stroke="#14121F" stroke-width="4"/>
+<g clip-path="url(#cc)"><g stroke="#D3C4FA" stroke-width="1.2" opacity="0.7"><line x1="30" y1="0" x2="30" y2="150"/><line x1="60" y1="0" x2="60" y2="150"/><line x1="90" y1="0" x2="90" y2="150"/><line x1="120" y1="0" x2="120" y2="150"/><line x1="150" y1="0" x2="150" y2="150"/><line x1="180" y1="0" x2="180" y2="150"/><line x1="210" y1="0" x2="210" y2="150"/><line x1="240" y1="0" x2="240" y2="150"/><line x1="270" y1="0" x2="270" y2="150"/><line x1="300" y1="0" x2="300" y2="150"/><line x1="330" y1="0" x2="330" y2="150"/><line x1="360" y1="0" x2="360" y2="150"/><line x1="390" y1="0" x2="390" y2="150"/><line x1="420" y1="0" x2="420" y2="150"/><line x1="450" y1="0" x2="450" y2="150"/><line x1="480" y1="0" x2="480" y2="150"/><line x1="510" y1="0" x2="510" y2="150"/><line x1="540" y1="0" x2="540" y2="150"/><line x1="570" y1="0" x2="570" y2="150"/><line x1="600" y1="0" x2="600" y2="150"/><line x1="630" y1="0" x2="630" y2="150"/><line x1="660" y1="0" x2="660" y2="150"/><line x1="690" y1="0" x2="690" y2="150"/><line x1="720" y1="0" x2="720" y2="150"/><line x1="750" y1="0" x2="750" y2="150"/><line x1="780" y1="0" x2="780" y2="150"/><line x1="810" y1="0" x2="810" y2="150"/><line x1="840" y1="0" x2="840" y2="150"/><line x1="0" y1="30" x2="860" y2="30"/><line x1="0" y1="60" x2="860" y2="60"/><line x1="0" y1="90" x2="860" y2="90"/><line x1="0" y1="120" x2="860" y2="120"/></g></g>
+<text x="44" y="62" font-family="'Arial Black', 'Helvetica Neue', Arial, Helvetica, sans-serif" font-weight="900" font-size="30" fill="#14121F" textLength="460" lengthAdjust="spacingAndGlyphs">Let's build something</text>
+<rect x="38" y="72" width="330" height="48" rx="8" fill="#C8F03C" transform="rotate(-1 38 72)"/>
+<text x="48" y="108" font-family="'Arial Black', 'Helvetica Neue', Arial, Helvetica, sans-serif" font-weight="900" font-size="34" fill="#14121F" textLength="310" lengthAdjust="spacingAndGlyphs">awesome together!</text>
+<rect x="598" y="52" width="226" height="52" rx="26" fill="#14121F" transform="translate(5 5)"/>
+<rect x="598" y="52" width="226" height="52" rx="26" fill="#B79CFF" stroke="#14121F" stroke-width="3.5"/>
+<text x="628" y="85" font-family="'Arial Black', 'Helvetica Neue', Arial, Helvetica, sans-serif" font-weight="900" font-size="16" fill="#14121F">Say hi on LinkedIn</text>
+<circle cx="794" cy="78" r="15" fill="#14121F"/><path d="M787,78 H801 M796,72 L801,78 L796,84" stroke="#C8F03C" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M540,26.0 Q540,40 554.0,40 Q540,40 540,54.0 Q540,40 526.0,40 Q540,40 540,26.0Z" fill="#14121F" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<path d="M572,109.6 Q572,118 580.4,118 Q572,118 572,126.4 Q572,118 563.6,118 Q572,118 572,109.6Z" fill="#14121F" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<path d="M820,18.200000000000003 Q820,28 829.8,28 Q820,28 820,37.8 Q820,28 810.2,28 Q820,28 820,18.200000000000003Z" fill="#14121F" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+</svg>
